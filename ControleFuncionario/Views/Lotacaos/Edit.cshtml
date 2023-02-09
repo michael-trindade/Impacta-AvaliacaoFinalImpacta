@@ -1,0 +1,34 @@
+﻿@model ControleFuncionario.Models.Lotacao
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1><i class="fa fa-pencil-square-o fa-2" aria-hidden="true"></i> Editar</h1>
+
+<h4>Lotacao</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="LotacaoId" />
+            <div class="form-group">
+                <label asp-for="LotacaoRegiao" class="control-label"></label>
+                <input asp-for="LotacaoRegiao" class="form-control" />
+                <span asp-validation-for="LotacaoRegiao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-dark"><i class="fa fa-floppy-o" aria-hidden="true"></i> Salvar</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-light">Voltar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

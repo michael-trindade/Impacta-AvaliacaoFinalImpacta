@@ -1,0 +1,213 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ControleFuncionario
+build_property.RootNamespace = ControleFuncionario
+build_property.ProjectDir = C:\Users\michael\source\repos\EmpresaControlePessoal\ControleFuncionario\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\michael\source\repos\EmpresaControlePessoal\ControleFuncionario
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Cargoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Cargoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Cargoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Cargoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Cargoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Empresas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Empresas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Empresas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Empresas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Empresas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Frequencias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlcXVlbmNpYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Frequencias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlcXVlbmNpYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Frequencias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlcXVlbmNpYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Frequencias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlcXVlbmNpYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Frequencias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlcXVlbmNpYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Funcionarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Funcionarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Funcionarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Funcionarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Funcionarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Lotacaos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG90YWNhb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Lotacaos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG90YWNhb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Lotacaos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG90YWNhb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Lotacaos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG90YWNhb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Lotacaos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG90YWNhb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Situacaos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0dWFjYW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Situacaos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0dWFjYW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Situacaos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0dWFjYW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Situacaos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0dWFjYW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Situacaos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0dWFjYW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/ValeRefeicaos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsZVJlZmVpY2Fvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/ValeRefeicaos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsZVJlZmVpY2Fvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/ValeRefeicaos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsZVJlZmVpY2Fvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/ValeRefeicaos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsZVJlZmVpY2Fvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/ValeRefeicaos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsZVJlZmVpY2Fvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/ValeTransportes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsZVRyYW5zcG9ydGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/ValeTransportes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsZVRyYW5zcG9ydGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/ValeTransportes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsZVRyYW5zcG9ydGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/ValeTransportes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsZVRyYW5zcG9ydGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/ValeTransportes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsZVRyYW5zcG9ydGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/michael/source/repos/EmpresaControlePessoal/ControleFuncionario/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kx34j6ylls
